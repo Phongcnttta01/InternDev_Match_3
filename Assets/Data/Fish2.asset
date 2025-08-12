@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6232ac55811b05408c597fcd3f494e9, type: 3}
+  m_Name: Fish2
+  m_EditorClassIdentifier: 
+  id: 2
+  image: {fileID: 8522440555642865104, guid: e0b688465fe64b1479b5c452ade1294a, type: 3}
